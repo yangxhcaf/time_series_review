@@ -1,4 +1,4 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{1}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -9,49 +9,9 @@
   \urlstyle{rm}\Url}\fi
 \providecommand{\eprint}[2][]{\url{#2}}
 
-\bibitem[{Baumer(2015)}]{Baumer2015}
-Baumer B (2015).
-\newblock \enquote{A Data Science Course For Undergraduates: Thinking With
-  Data.}
-\newblock \emph{The American Statistician}, \textbf{69}(4), 334--342.
-\newblock ISSN 0003-1305.
-\newblock \doi{10.1080/00031305.2015.1081105}.
-\newblock \urlprefix\url{http://dx.doi.org/10.1080/00031305.2015.1081105}.
-
-\bibitem[{Gandomi and Haider(2015)}]{Gandomi2015}
-Gandomi A, Haider M (2015).
-\newblock \enquote{Beyond the hype: Big data concepts, methods, and analytics.}
-\newblock \emph{International Journal of Information Management},
-  \textbf{35}(2), 137--144.
-\newblock ISSN 0268-4012.
-\newblock \doi{http://dx.doi.org/10.1016/j.ijinfomgt.2014.10.007}.
-\newblock
-  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0268401214001066}.
-
-\bibitem[{Marx(2013)}]{Marx2013}
-Marx V (2013).
-\newblock \enquote{Biology: The big challenges of big data.}
-\newblock \emph{Nature}, \textbf{498}(7453), 255--260.
-\newblock ISSN 0028-0836.
-\newblock \doi{10.1038/498255a}.
-\newblock \urlprefix\url{http://dx.doi.org/10.1038/498255a}.
-
-\bibitem[{Peters \emph{et~al.}(2014)Peters, Havstad, Cushing, Tweedie, Fuentes,
-  and Villanueva-Rosales}]{Peters2014}
-Peters DPC, Havstad KM, Cushing J, Tweedie C, Fuentes O, Villanueva-Rosales N
-  (2014).
-\newblock \enquote{Harnessing the power of big data: infusing the scientific
-  method with machine learning to transform ecology.}
-\newblock \emph{Ecosphere}, \textbf{5}(6), 1--15.
-\newblock ISSN 2150-8925.
-\newblock \doi{10.1890/ES13-00359.1}.
-\newblock \urlprefix\url{http://dx.doi.org/10.1890/ES13-00359.1}.
-
-\bibitem[{Wickham(2009)}]{Wickham2009}
-Wickham H (2009).
-\newblock \emph{ggplot2: Elegant Graphics for Data Analysis}.
-\newblock Springer-Verlag New York.
-\newblock ISBN 978-0-387-98140-6.
-\newblock \urlprefix\url{http://ggplot2.org}.
+\bibitem[{Woodward \emph{et~al.}(2017)Woodward, Gray, and Elliott}]{Woodward}
+Woodward W, Gray H, Elliott A (2017).
+\newblock \emph{Applied times series analysis with R. Second Edition}.
+\newblock Second edition. CRC Press, Boca Raton, FL.
 
 \end{thebibliography}
