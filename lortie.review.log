@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 APR 2018 16:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  7 APR 2018 08:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -444,7 +444,7 @@ LaTeX Font Info:    Font shape `T1/pzc/m/n' in size <13> not available
 (Font)              Font shape `T1/pzc/mb/it' tried instead on input line 58.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3623) has occurred while \output is active []
 
  [1
 
@@ -466,11 +466,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
 Here is how much of TeX's memory you used:
  6737 strings out of 492995
  98681 string characters out of 6132704
- 181461 words of memory out of 5000000
+ 182461 words of memory out of 5000000
  10187 multiletter control sequences out of 15000+600000
  29933 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,34p,646b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,6n,34p,702b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/tex
@@ -481,7 +481,7 @@ ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive
 017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/20
 17/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/201
 7/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on lortie.review.pdf (2 pages, 146585 bytes).
+Output written on lortie.review.pdf (2 pages, 147511 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
