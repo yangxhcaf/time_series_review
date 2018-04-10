@@ -1,4 +1,4 @@
-\begin{thebibliography}{6}
+\begin{thebibliography}{7}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -28,6 +28,15 @@ Fu Tc (2011).
 \newblock \doi{https://doi.org/10.1016/j.engappai.2010.09.007}.
 \newblock
   \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0952197610001727}.
+
+\bibitem[{Mishra \emph{et~al.}(2017)Mishra, Soni, Sharma, and
+  Upadhyay}]{Mishra2017}
+Mishra N, Soni HK, Sharma S, Upadhyay AK (2017).
+\newblock \enquote{A Comprehensive Survey of Data Mining Techniques on Time
+  Series Data for Rainfall Prediction.}
+\newblock \emph{Journal of ICT Research and Applications; Vol 11, No 2 (2017)}.
+\newblock
+  \urlprefix\url{http://journals.itb.ac.id/index.php/jictra/article/view/2604}.
 
 \bibitem[{Senin(2009)}]{Senin2009}
 Senin P (2009).
