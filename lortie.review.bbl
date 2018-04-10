@@ -9,7 +9,8 @@
   \urlstyle{rm}\Url}\fi
 \providecommand{\eprint}[2][]{\url{#2}}
 
-\bibitem[{Woodward \emph{et~al.}(2017)Woodward, Gray, and Elliott}]{Woodward}
+\bibitem[{Woodward \emph{et~al.}(2017)Woodward, Gray, and
+  Elliott}]{Woodward2017}
 Woodward W, Gray H, Elliott A (2017).
 \newblock \emph{Applied times series analysis with R. Second Edition}.
 \newblock Second edition. CRC Press, Boca Raton, FL.
