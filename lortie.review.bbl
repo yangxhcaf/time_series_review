@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{3}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -8,6 +8,26 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 \providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{De~Gooijer and Hyndman(2006)}]{Gooijer2006}
+De~Gooijer JG, Hyndman RJ (2006).
+\newblock \enquote{25 years of time series forecasting.}
+\newblock \emph{International Journal of Forecasting}, \textbf{22}(3),
+  443--473.
+\newblock ISSN 0169-2070.
+\newblock \doi{https://doi.org/10.1016/j.ijforecast.2006.01.001}.
+\newblock
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0169207006000021}.
+
+\bibitem[{Fu(2011)}]{Fu2011}
+Fu Tc (2011).
+\newblock \enquote{A review on time series data mining.}
+\newblock \emph{Engineering Applications of Artificial Intelligence},
+  \textbf{24}(1), 164--181.
+\newblock ISSN 0952-1976.
+\newblock \doi{https://doi.org/10.1016/j.engappai.2010.09.007}.
+\newblock
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0952197610001727}.
 
 \bibitem[{Woodward \emph{et~al.}(2017)Woodward, Gray, and
   Elliott}]{Woodward2017}
